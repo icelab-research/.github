@@ -1,1 +1,1 @@
-Observability for models
+Best model for multimodal retrieval 
