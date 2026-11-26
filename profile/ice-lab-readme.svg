@@ -1,15 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title description">
   <title id="title">Ice Lab</title>
-  <description id="description">Ice Lab builds models and tools for AI media applications.</description>
+  <desc id="description">Ice Lab makes your videos searchable through one API.</desc>
   <rect width="1600" height="480" fill="#dfff00"/>
   <g fill="#090a0a" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
     <text x="72" y="72" font-size="24" font-weight="700" letter-spacing="0.5">ICE LAB</text>
-    <text x="72" y="238" font-size="106" font-weight="400" letter-spacing="-5">models</text>
-    <text x="410" y="174" font-size="22" font-family="SFMono-Regular, Consolas, monospace">01</text>
-    <line x1="72" y1="256" x2="397" y2="256" stroke="#090a0a" stroke-width="3"/>
-    <text x="474" y="238" font-size="106" font-weight="400" letter-spacing="-5">and tools</text>
-    <text x="888" y="174" font-size="22" font-family="SFMono-Regular, Consolas, monospace">02</text>
-    <line x1="676" y1="256" x2="876" y2="256" stroke="#090a0a" stroke-width="3"/>
-    <text x="72" y="366" font-size="106" font-weight="400" letter-spacing="-5">for AI media applications.</text>
+    <text x="72" y="230" font-size="92" letter-spacing="-4">makes your videos</text>
+    <text x="72" y="340" font-size="92" letter-spacing="-4">searchable through one API.</text>
   </g>
 </svg>
